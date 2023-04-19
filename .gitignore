@@ -1,7 +1,18 @@
-./venv
-./venv/*
+/venv
+/venv/*
 
-./.idea
-./.idea/*
+/.idea
+/.idea/*
 
 ./art/src
+/.idea/.gitignore
+/art/src/Ballon.afdesign
+/art/src/Boy.afdesign
+/art/src/Cloud.afdesign
+/art/src/Coin.afdesign
+/.idea/JoyRideClone.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/art/src/Pfeil.afdesign
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
